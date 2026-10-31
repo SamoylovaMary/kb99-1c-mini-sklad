@@ -257,6 +257,8 @@
 			<Catalog>Контрагенты</Catalog>
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
+			<Report>ОборотыПоТоварам</Report>
+			<AccumulationRegister>Остатки</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
