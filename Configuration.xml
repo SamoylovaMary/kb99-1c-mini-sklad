@@ -258,7 +258,11 @@
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
 			<Report>ОборотыПоТоварам</Report>
+			<Report>МаксимумИОстатки</Report>
+			<Report>ОстаткиИЦены</Report>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>Остатки</AccumulationRegister>
+			<AccumulationRegister>Продажи</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
